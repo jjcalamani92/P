@@ -1,0 +1,89 @@
+{
+	"pages": [
+		{
+			"label": "men",
+			"url": "men",
+			"has_subnav": true,
+			"subnav_links": [
+				{
+					"label": "chamarras",
+					"url": "chamarras"
+				},
+				{
+					"label": "poleras",
+					"url": "poleras"
+				},
+				{
+					"label": "camisetas",
+					"url": "camisetas"
+				},
+				{
+					"label": "chompas",
+					"url": "chompas"
+				},
+				{
+					"label": "camisas",
+					"url": "camisas"
+				}
+			]
+		},
+		{
+			"label": "women",
+			"url": "women",
+			"has_subnav": true,
+			"subnav_links": [
+				{
+					"label": "sudaderas",
+					"url": "sudaderas"
+				},
+				{
+					"label": "poleras",
+					"url": "poleras"
+				},
+				{
+					"label": "camisetas",
+					"url": "camisetas"
+				},
+				{
+					"label": "leggins",
+					"url": "leggins"
+				},
+				{
+					"label": "blusas",
+					"url": "blusas"
+				}
+			]
+		},
+		{
+			"label": "kid",
+			"url": "kid",
+			"has_subnav": true,
+			"subnav_links": [
+				{
+					"label": "chamarras",
+					"url": "chamarras"
+				},
+				{
+					"label": "poleras",
+					"url": "poleras"
+				},
+				{
+					"label": "camisetas",
+					"url": "camisetas"
+				},
+				{
+					"label": "chompas",
+					"url": "chompas"
+				},
+				{
+					"label": "camisas",
+					"url": "camisas"
+				}
+			]
+		},
+		{
+			"label": "contacto",
+			"url": "contacto"
+		}
+	]
+}
